@@ -1,0 +1,224 @@
+body
+{
+overflow-x:hidden;
+font:20px 'Ubuntu', sans-serif;
+background:#202020;
+background-attachment: fixed;
+}
+@font-face {
+   font-family: 'batman';
+    src: url('../fonts/batmfa.ttf');
+	}
+	
+.logo
+{
+border-bottom:1px solid;
+border-color:#323232;
+}
+.logo h1
+{
+margin-left:20px;
+font-size:45px;
+font-family:'Segoe Script';
+ }
+.panel{
+border-color:#eee;
+margin:40px;
+padding:20px;
+}
+.log
+{
+margin:20px;
+margin-left:30px;
+color:orange;
+text-decoration:none;
+font-size:20px;
+font-size:15px;
+}
+.log:hover
+{
+color:#9acd32;
+border-top:2px solid;
+border-color:orange;
+text-decoration:none;
+}
+
+.log1
+{
+font: 15px 'Ubuntu', sans-serif;
+color:orange;
+margin:0px;
+}
+.top
+{
+margin-top:20px;
+}
+.submit
+{
+color:#fff;
+}
+.submit:hover
+{
+border-color:#00d4cf;
+color:#00d4cf;
+}
+.title1{
+font: 25px "Century Gothic", "Times Roman", sans-serif;
+color:#428bca;
+}
+.title2{
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+
+}
+.bg
+{
+background:url(../img/book_read_leaf_page_abstract_photography_hd-wallpaper-1480336.jpg);
+margin-top:3px;
+border-bottom:3px solid;
+border-color:#eee;
+
+}
+@font-face {
+    font-family: 'love';
+    src: url('../fonts/love2.ttf');
+	}
+.sub
+{
+width:100%;
+background-color:#9acd32;
+font-size:20px;
+padding:2px;
+margin-top:15px;
+margin-right:20px;
+}
+.sub:hover
+{
+color:#fff;
+}
+.sub1
+{
+width:90px;
+color:#202020;
+background:orange;
+font-size:15px;
+height:30px;
+}
+.footer
+{
+font-size:15px;
+text-align:center;
+border-top:1px solid;
+border-color:#323232;
+}
+.footer a
+{
+margin:25px;
+color:orange;
+}
+.footer a:hover
+{
+text-decoration:none;
+color:#9acd32;
+border-top:2px solid;
+border-color:orange;
+
+}
+.small
+{
+margin-top:40px;
+color:#fff;
+}
+.bich
+{
+min-height:80vh;
+border-top:2px solid;
+border-bottom:2px solid;
+border-color:#eee;
+background:#fff;
+font: 17px "Century Gothic", "Times Roman", sans-serif;
+}
+.menu
+{
+background-color:#202020;
+}
+.menu ul
+{
+list-style:none;
+}
+.camenu
+{
+height:30px;
+ font-family: 'Ubuntu', sans-serif;
+ margin-bottom:10px;
+ margin-top:10px;
+ margin-left:-10px;
+ }
+ .camenu a
+ {
+ color:orange;
+ font-size:20px;
+ }
+ .menu li
+ {
+ height:35px;
+ width:100%;
+ margin-left:-30px;
+ }
+.menu li a
+{
+text-decoration:none;
+}
+.menu li a:hover
+{
+text-decoration:none;
+color:#9acd32;
+font-size:22px;
+border-left:3px solid;
+border-color:orange;
+}
+.active a
+{
+text-decoration:none;
+color:#9acd32;
+font-size:22px;
+border-left:3px solid;
+border-color:orange;
+}
+.caf
+{
+margin:5px;
+}
+.cas
+{
+margin:5px;
+}
+.box
+{
+padding:9px;
+}
+.area
+{
+margin-left:0px;
+}
+.area a
+{
+text-decoration:none;
+color:#000000;
+}
+.area a:hover
+{
+color:#428bcd;
+}
+.area1
+{
+margin:5px;
+}
+.invalid
+{
+color:red;
+font-size:30px;
+margin-top:200px;
+margin-left:35%;
+
+}
+
